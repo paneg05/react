@@ -1,0 +1,8 @@
+.container {
+  margin: 0 auto;
+  width: 720px;
+  display: flex;
+  flex-direction: column;
+}
+
+/*# sourceMappingURL=style.css.map */
